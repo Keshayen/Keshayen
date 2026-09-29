@@ -1,8 +1,8 @@
 # Hi 👋, I'm Keshayen Naidu
 
-### A hobbiest who loves rust
+### A hobbyist who loves Rust
 
-- 🌱 I'm currently learning **Rust and it's ecosytem**
+- 🌱 I'm currently learning **Rust and it's ecosystem**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
